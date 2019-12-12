@@ -1,2 +1,2 @@
-# CompModel
-Emergent HPC model...TBC
+# PS underpins expectation-modulated memory
+Emergent HPC model and behavioural data
